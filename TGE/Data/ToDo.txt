@@ -1,0 +1,128 @@
+[ ] TODO: Map
+[x] - list of locations -> grid
+[ ] -- chance to occur in world
+[ ] - each location needs spawning mobs with spawn chance
+[ ] -- collectible resources
+[ ] --- for crafting
+[ ] --- food
+[ ] --- ammo
+[ ] --- weapons
+[ ] --- etc.
+[ ] --- found in environment and in chests
+[ ] -- weather
+[ ] --- affects players and mobs
+
+[ ] TODO: Player
+[x] - stats
+[x] -- hp
+[x] -- mp
+[x] -- attack
+[x] -- defense
+[x] -- can add more like hunger, breath, stamina, resistances, etc.
+[x] - money
+[x] - inventory
+[x] -- ability to equip/unequip items
+[ ] - skills
+[ ] -- prerequisites for certain items
+[ ] -- skill trees
+[ ] - experience from crafting
+[ ] - experience from killing
+[ ] - levels
+
+[ ] TODO: Player can move on map
+[x] - Player can move around map
+[ ] - need key item to enter location
+[ ] - can't enter location from certain side
+[ ] - boats/trains/wagons/etc. for fast travel
+[ ] - can zoom in on map square for more detailed display; player can explore
+
+[ ] TODO: Mobs
+[ ] - friendly
+[ ] -- kill for supplies
+[ ] -- trading
+[ ] -- travel buddy
+[ ] -- raise/befriend for companion/food
+[ ] - hostile
+[ ] -- kill for supplies
+[ ] -- kill for experience
+[ ] -- spawn chance different in different locations
+
+[x] TODO: Shop
+[x] - add items to shop
+[x] - buy and sell items
+[x] - view items in shop
+
+[ ] TODO: Crafting
+[ ] - collect/buy materials around map for crafting
+[ ] - cost money?
+[ ] - certain places for crafting or anywhere?
+
+[ ] TODO: Upgrading
+[ ] - need materials, money, or experience?
+[ ] - where to upgrade? At the shop?
+
+[ ] TODO: Adding items to game
+[x] - equippable
+[x] -- weapon
+[x] -- armor
+[ ] --- helmet
+[ ] --- chest
+[ ] --- gauntlets
+[ ] --- boots
+[x] -- shield
+[ ] -- jewelry?
+[x] -- staff
+[ ] --- increases strength of spells
+[x] - consumable
+[x] -- food
+[ ] --- effect over time
+[x] -- projectiles
+[x] -- potions
+[ ] --- effect over time
+[x] --- hp+
+[x] --- mp+
+[x] - spells
+[x] -- offensive
+[x] -- defensive
+[x] -- healing
+[ ] -- effect over time
+
+[ ] TODO: View Information
+[x] - view items
+[x] - view spells
+[x] - view player stats
+[x] - view player inventory
+[x] - view player equipped
+[ ] - view skills
+[ ] - view player skill tree
+
+[x] TODO: Bools
+[x] - view bools
+[x] - create bools
+[x] - change bools
+
+[ ] TODO: Save, Quit, Load
+
+[ ] TODO: Other ideas
+[ ] - player classes
+[ ] -- do this after skills implemented
+[ ] - overencumberance
+[ ] -- player doesn't run; what can this affect?
+[ ] - max carry weight?
+
+[ ] TODO: Repair items
+[ ] - items get durability
+[ ] - repair at shop?
+[ ] - buy repair kits from shop
+
+[ ] TODO: Chests
+[ ] - random chests found around map with items inside
+
+[ ] TODO: Story
+[ ] - dialogue
+[ ] - cutscenes
+[ ] - pedometer - tracks number of times player moves on map
+[ ] -- useful for over-time effects
+[ ] - action counter - tracks number of moves during combat
+[ ] -- useful for over-time effects
+[ ] - colored text for important words and emphasis
