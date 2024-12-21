@@ -1,0 +1,37 @@
+Pre-12/17/2024
+
+GameData created
+Bool manipulation file created
+Player class created
+IntroduceData file created
+Ability to add items to game items
+    - equippable items (weapons, armor, shield, staff)
+    - consumables (health potion, restore magic potion, food, projectiles
+    - spells (attack, defense, heal)
+Ability to equip items
+Shop class created
+Terrain class created
+
+12/17/2024
+
+Player can move around map
+Each terrain is 80x20 grid
+Press <m> to view world map
+press <p> to view player inventory
+
+12/18/2024
+
+Added impassible world border
+
+12/19/2024
+
+Fixed map visuals
+Combined four moving functions into one function that handles all directions
+Player does not walk through chests
+Player does not walk through buildings
+Player can check surroundings for walls, chests, etc.
+
+12/20/2024
+
+Player recognizes chests and shops as different things
+Begin reorganization
